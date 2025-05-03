@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tommybez-dbt-semantic-layer-mcp-server-badge.png)](https://mseep.ai/app/tommybez-dbt-semantic-layer-mcp-server)
+
 # dbt Semantic Layer MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@TommyBez/dbt-semantic-layer-mcp)](https://smithery.ai/server/@TommyBez/dbt-semantic-layer-mcp)
